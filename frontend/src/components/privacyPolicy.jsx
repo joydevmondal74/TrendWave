@@ -130,12 +130,12 @@ const PrivacyPolicy = () => {
                 In accordance with the Information Technology Act 2000 and rules made thereunder, the name and contact details of the Grievance Officer are provided below:
             </p>
             <p>
-                [Grievance Officer's Name - e.g., Mr. Rakesh Sarkar]<br />
-                [Designation - Head of Customer Relations]<br />
+                Grievance Officer <b>Mr. Rakesh Sarkar</b><br />
+                Head of Customer Relations<br /><br />
                 TrendWave E-commerce Private Limited<br />
-                [Dhalua main road, Garia]<br />
-                [South 24 Parganas, West Bengal, India]<br />
-                [Garia, Kolkata,700152]<br />
+                Dhalua main road, Garia<br />
+                South 24 Parganas, West Bengal, India<br />
+                Garia, Kolkata,700152<br />
                 Email: <a href="mailto: contact.trendwave@gmail.com"> contact.trendwave@gmail.com</a>
             </p>
 
